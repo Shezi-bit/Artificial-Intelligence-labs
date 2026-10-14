@@ -1,0 +1,6 @@
+# number guess
+
+while int(input("Guess (1-9): ")) != 7:
+    pass
+print("Well guessed!")
+  

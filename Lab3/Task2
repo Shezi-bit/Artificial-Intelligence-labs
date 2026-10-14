@@ -1,0 +1,6 @@
+# Cel + fah
+
+cel = 60
+feh = 45
+print(f"{cel}°C is {cel*9/5+32} in Feh")
+print(f"{feh}°F is {(feh-32)*5/9} in Cel")
